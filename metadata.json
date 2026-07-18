@@ -1,0 +1,6 @@
+{
+  "name": "LesehTools Web Dashboard",
+  "description": "WhatsApp Banned Appeal & Bot Tools Dashboard. Appeal bans in 50+ languages with random templates, SMTP tracking, and license keys.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
